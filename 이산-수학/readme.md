@@ -54,4 +54,3 @@ mirroring 폴더 구조 변경후 merging 연동 테스트를 위한 수정
 
 - GitHub to GitLab은 단순 푸쉬로 연동이 안됨 (미러링은 양방향이 아닌듯)
 - 폴더 구조를 url변경하여 바꿔봤는데 잘 가는지 TEST-3
-- test-4
